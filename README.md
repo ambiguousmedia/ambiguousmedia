@@ -4,7 +4,7 @@
 
 ### About Us
 
-Ambiguity is a small software company based in Hertfordshire, UK focused on creating applicationds with the best user experiences possible. We like to class ourselves as "Ambiguous" because of it but that's left up to you. We hope that word does popup in your head when you start using some of our apps. This is our GitHub Page! Here you can find all of our products with a basic rendition of the code we use as we're a company that likes to keep things opensource and easy for anyone to look at. If you have no idea what is going on and you were simply directed here to download some files they can be found on  ![Ambiguity Downloads](https://downloads.ambiguity.cloud)&nbsp;enjoy!
+Ambiguity is a small software company based in Hertfordshire, UK focused on creating applications with the best user experiences possible. We like to class ourselves as "ambiguous" because of it but that's left up to you. We hope that word does popup in your head when you start using some of our apps -- This is our GitHub Page! Here you can find all of our products with a basic rendition of the code we use as we're a company that likes to keep things opensource and easy for anyone to look at. If you have no idea what is going on and you were simply directed here to download some files they can be found on  ![Ambiguity Downloads](https://downloads.ambiguity.cloud)&nbsp;enjoy!
 
 ### Technologies we employ
 
